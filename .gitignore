@@ -1,0 +1,8 @@
+.vscode
+.DS_Store
+#cache
+pipelines/dags/__pycache__/
+#airflow logs/scheduler
+airflow
+airflow-venv
+.venv
