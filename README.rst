@@ -7,7 +7,7 @@
 Airflow basic tutorial
 ============================
 
-* We need to add airflow as package in poetry @apache-airflow together with other dependencies 
+* Add airflow as package in poetry @apache-airflow together with other dependencies 
 because they already exists in our pyproject.toml all you need to do is::
 
      poetry install
